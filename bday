@@ -1,0 +1,27 @@
+intex.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>Happy Birthday!</title>
+<style>
+body {
+background-color: pink;
+font-family: Arial, sans-serif;
+text-align: center;
+padding: 50px;
+}
+h1 {
+color: red;
+}
+img {
+max-width: 300px;
+}
+</style>
+</head>
+<body>
+<h1>Happy Birthday, My Love! 🎂💖</h1>
+<p>Wishing you all the happiness in the world. You make my life beautiful just by being in it.</p>
+<img src="https://your-image-link.jpg" alt="Birthday Image">
+<p>Love you forever ❤️</p>
+</body>
+</html>
